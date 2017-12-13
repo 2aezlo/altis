@@ -6,7 +6,7 @@ relative_permalinks: true
 title: altis
 description: "A blog for aezlo"
 locale: en_GB
-disqus: aezl0
+disqus: altis
 paginate: 5
 
 url: "athelo.net"
